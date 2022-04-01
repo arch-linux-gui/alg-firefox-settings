@@ -6,16 +6,16 @@ static.toiimg.com:HSTS	0	19071	1673709727819,1,1,2
 stackpath.bootstrapcdn.com:HSTS	0	19071	1679325564505,1,1,2
 www.google.com^firstPartyDomain=google-b-d.search.suggestions.mozilla:HSTS	0	19071	1679325282252,1,0,2
 timesofindia.indiatimes.com:HSTS	0	19071	1647876128078,1,0,2
-normandy.cdn.mozilla.net:HSTS	0	19071	1679324202740,1,0,2
 firefox.settings.services.mozilla.com:HSTS	1	19083	1680335535953,1,0,2
 www.business-standard.com^partitionKey=%28http%2Cbusiness-standard.com%29:HSTS	0	19071	1679325565047,1,0,2
 services.addons.mozilla.org:HSTS	0	19071	1679325130456,1,0,2
-incoming.telemetry.mozilla.org:HSTS	1	19083	1680335642902,1,0,2
+incoming.telemetry.mozilla.org:HSTS	1	19083	1680335890167,1,0,2
 npcoins.indiatimes.com^partitionKey=%28http%2Cindiatimes.com%29:HSTS	0	19071	1673709302298,1,1,2
 versioncheck-bg.addons.mozilla.org:HSTS	0	19071	1647789432421,1,0,2
-contile.services.mozilla.com:HSTS	1	19083	1680335642976,1,0,2
+contile.services.mozilla.com:HSTS	1	19083	1680335889417,1,0,2
 addons.mozilla.org^partitionKey=%28http%2Cmozilla.org%29:HSTS	0	19071	1679325082032,1,0,2
 www.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	19071	1679325719421,1,0,2
+buy.tinypass.com:HSTS	0	19071	1647876060877,1,1,2
 en.wikipedia.org:HSTS	0	19071	1754173983709,1,1,2
 image.timespoints.iimg.in:HSTS	0	19071	1673709296739,1,1,2
 maxcdn.bootstrapcdn.com:HSTS	0	19071	1679325562150,1,1,2
@@ -34,4 +34,4 @@ s7.addthis.com:HSTS	0	19071	1663514370579,1,1,2
 www.wikipedia.org:HSTS	0	19071	1754173801563,1,1,2
 en.wikipedia.org^partitionKey=%28http%2Cwikipedia.org%29:HSTS	0	19071	1754173987958,1,1,2
 spocs.getpocket.com:HSTS	0	19071	1710860208887,1,0,2
-buy.tinypass.com:HSTS	0	19071	1647876060877,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	19071	1679324202740,1,0,2
